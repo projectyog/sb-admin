@@ -1,0 +1,47 @@
+/* all forms presernt in app*/
+
+.formDesign{
+    background-color: rgb(203, 216, 29);
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    gap:20px;
+    padding:25px;
+    color:antiquewhite
+}
+/* container for all component*/
+.container {
+    padding: 1rem 0rem;
+    margin: 1rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(157, 203, 255);
+  }
+  
+  h4 {
+    margin: 2rem 0rem 1rem;
+  }
+  
+  .table-image {
+    td,th {
+      vertical-align: middle;
+    }
+  }
+  /* button design*/
+  .buttonDesign{
+    background-color: rgb(104, 95, 95);
+    margin: 10px;
+    padding:10px;
+    color: whitesmoke;
+  }
+/* product card design*/
+  .cardDesign{
+    display: flex;
+    flex-direction: row;
+    flex-wrap:wrap ;
+
+  }
+
+  
